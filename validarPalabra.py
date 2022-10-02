@@ -18,7 +18,6 @@ import puntajes
 
 """
 def recorrerPalabra(nombre,palabraIngresada,palabraSecreta,lista):
-    print(nombre,palabraIngresada,palabraSecreta,lista)
     #inicio del nivel
     vidas=8
     aciertos=0
